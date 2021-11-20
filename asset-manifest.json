@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-HW/static/css/main.a53283eb.chunk.css",
+    "main.js": "/React-HW/static/js/main.0b8202f2.chunk.js",
+    "main.js.map": "/React-HW/static/js/main.0b8202f2.chunk.js.map",
+    "runtime-main.js": "/React-HW/static/js/runtime-main.31aa7c73.js",
+    "runtime-main.js.map": "/React-HW/static/js/runtime-main.31aa7c73.js.map",
+    "static/js/2.c59d6d7a.chunk.js": "/React-HW/static/js/2.c59d6d7a.chunk.js",
+    "static/js/2.c59d6d7a.chunk.js.map": "/React-HW/static/js/2.c59d6d7a.chunk.js.map",
+    "index.html": "/React-HW/index.html",
+    "static/css/main.a53283eb.chunk.css.map": "/React-HW/static/css/main.a53283eb.chunk.css.map",
+    "static/js/2.c59d6d7a.chunk.js.LICENSE.txt": "/React-HW/static/js/2.c59d6d7a.chunk.js.LICENSE.txt",
+    "static/media/comment.e0e26a5e.svg": "/React-HW/static/media/comment.e0e26a5e.svg",
+    "static/media/down-arrow.0b02c931.svg": "/React-HW/static/media/down-arrow.0b02c931.svg",
+    "static/media/like.d7f1e57c.svg": "/React-HW/static/media/like.d7f1e57c.svg",
+    "static/media/repost.6815d0b9.svg": "/React-HW/static/media/repost.6815d0b9.svg",
+    "static/media/verified-icon.0a897aff.svg": "/React-HW/static/media/verified-icon.0a897aff.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31aa7c73.js",
+    "static/js/2.c59d6d7a.chunk.js",
+    "static/css/main.a53283eb.chunk.css",
+    "static/js/main.0b8202f2.chunk.js"
+  ]
+}
